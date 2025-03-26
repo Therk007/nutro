@@ -180,7 +180,7 @@ def handle_attack(message):
         pending_feedback[user_id] = True
 
         # Build the full command
-        full_command = f"./RAJ {target} {port} {time_duration}"
+        full_command = f"./bgmi {target} {port} {time_duration}"
 
         # Simulate the attack
         try:
