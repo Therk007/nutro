@@ -16,7 +16,7 @@ admin_id = ["1549748318"]
 
 # Group and channel details
 GROUP_ID = "-1002356850946"
-CHANNEL_USERNAME = "@RAJOWNER786"
+CHANNEL_USERNAME = "@RAJOWNER9090"
 
 # Default cooldown and attack limits
 COOLDOWN_TIME = 0  # Cooldown in seconds
